@@ -11,8 +11,6 @@ A fully local expense tracker. No cloud, no account, no telemetry. Add expenses,
 cd Expense_Tracker
 
 # 2. Install dependencies (only two packages)
-pip install flask flask-cors
-# or
 pip install -r requirements.txt
 
 # 3. Start the server
