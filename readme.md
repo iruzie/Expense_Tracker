@@ -228,3 +228,9 @@ DB_PATH = '/your/custom/path/expenses.db'
 - `debug=True` is on by default — fine for local use, turn it off if you expose this to a network.
 - All data stays on your machine. Nothing is sent anywhere.
 - The `expenses.db` file is your entire dataset. Back it up like any important file.
+
+<img width="1916" height="950" alt="image" src="https://github.com/user-attachments/assets/67ddb02e-2a76-4145-b8f0-e36317e6b2db" />
+<img width="1827" height="928" alt="image" src="https://github.com/user-attachments/assets/621793d6-ca56-4421-9415-f7b3aaca7c1a" />
+<img width="1828" height="928" alt="image" src="https://github.com/user-attachments/assets/77ad2bbe-79e4-4d48-9975-4acdecaadc5b" />
+
+
