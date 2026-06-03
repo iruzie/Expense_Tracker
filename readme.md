@@ -8,11 +8,11 @@ A fully local expense tracker. No cloud, no account, no telemetry. Add expenses,
 
 ```bash
 # 1. Clone or unzip the project, then enter the folder
-cd Personal_Expense_Tracker
+cd Expense_Tracker
 
 # 2. Install dependencies (only two packages)
 pip install flask flask-cors
-           or 
+# or
 pip install -r requirements.txt
 
 # 3. Start the server
@@ -30,14 +30,14 @@ The SQLite database (`expenses.db`) is created automatically on first run. Nothi
 
 ### First time setup
 ```bash
-cd Personal_Expense_Tracker
+cd Expense_Tracker
 pip install flask flask-cors
 python app.py
 ```
 
 ### Every subsequent run
 ```bash
-cd Personal_Expense_Tracker
+cd Expense_Tracker
 python app.py
 ```
 
@@ -69,7 +69,7 @@ cp expenses.db expenses_backup.db
 ## Project Structure
 
 ```
-expense-tracker/
+Expense_Tracker/
 ├── app.py              ← Flask backend + all API endpoints
 ├── requirements.txt    ← pip dependencies
 ├── expenses.db         ← SQLite database (auto-created, do not commit)
